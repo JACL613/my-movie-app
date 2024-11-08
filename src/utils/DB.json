@@ -1,0 +1,695 @@
+[
+    {
+      "title": "Terrifier 3",
+      "descripcion": "Five years after surviving Art the Clown's Halloween massacre, Sienna and Jonathan are still struggling to rebuild their shattered lives. As the holiday season approaches, they try to embrace the Christmas spirit and leave the horrors of the past behind. But just when they think they're safe, Art returns, determined to turn their holiday cheer into a new nightmare. The festive season quickly unravels as Art unleashes his twisted brand of terror, proving that no holiday is safe.",
+      "genero": [ "Horror", "Thriller", "Mystery" ],
+      "actores": [
+        "Samantha Scaffidi",
+        "David Howard Thornton",
+        "Margaret Anne Florence",
+        "Bryce Johnson",
+        "Alexa Blair Robertson"
+      ],
+      "calificacion": 7.2,
+      "fecha_publicacion": "2024-10-09",
+      "duration": "N/A",
+      "coverImage": "https://image.tmdb.org/t/p/w500/63xYQj1BwRFielxsBDXvHIJyXVm.jpg",
+      "backdropImage": "https://image.tmdb.org/t/p/w500/gMQibswELoKmB60imE7WFMlCuqY.jpg"
+    },
+      {
+        "title": "Venom: The Last Dance",
+        "descripcion": "Eddie and Venom are on the run. Hunted by both of their worlds and with the net closing in, the duo are forced into a devastating decision that will bring the curtains down on Venom and Eddies last dance.",
+        "genero": [ "Science Fiction", "Action", "Adventure" ],
+        "actores": [
+          "Tom Hardy",
+          "Chiwetel Ejiofor",
+          "Juno Temple",
+          "Clark Backo",
+          "Rhys Ifans"
+        ],
+        "calificacion": 6.642,
+        "fecha_publicacion": "2024-10-22",
+        "duration": "N/A",
+        "coverImage": "https://image.tmdb.org/t/p/w500/aosm8NMQ3UyoBVpSxyimorCQykC.jpg",
+        "backdropImage": "https://image.tmdb.org/t/p/w500/3V4kLQg0kSqPLctI5ziYWabAZYF.jpg"
+      },
+    {
+      "title": "The Wild Robot",
+      "descripcion": "After a shipwreck, an intelligent robot called Roz is stranded on an uninhabited island. To survive the harsh environment, Roz bonds with the island's animals and cares for an orphaned baby goose.",
+      "genero": [ "Animation", "Science Fiction", "Family" ],
+      "actores": [
+        "Lupita Nyong'o",
+        "Pedro Pascal",
+        "Kit Connor",
+        "Bill Nighy",
+        "Stephanie Hsu"
+      ],
+      "calificacion": 8.537,
+      "fecha_publicacion": "2024-09-12",
+      "duration": "N/A",
+      "coverImage": "https://image.tmdb.org/t/p/w500/wTnV3PCVW5O92JMrFvvrRcV39RU.jpg",
+      "backdropImage": "https://image.tmdb.org/t/p/w500/v9acaWVVFdZT5yAU7J2QjwfhXyD.jpg"
+    },
+    {
+      "title": "The Substance",
+      "descripcion": "A fading celebrity decides to use a black market drug, a cell-replicating substance that temporarily creates a younger, better version of herself.",
+      "genero": [ "Drama", "Horror", "Science Fiction" ],
+      "actores": [
+        "Demi Moore",
+        "Margaret Qualley",
+        "Dennis Quaid",
+        "Edward Hamilton-Clark",
+        "Gore Abrams"
+      ],
+      "calificacion": 7.3,
+      "fecha_publicacion": "2024-09-07",
+      "duration": "N/A",
+      "coverImage": "https://image.tmdb.org/t/p/w500/lqoMzCcZYEFK729d6qzt349fB4o.jpg",
+      "backdropImage": "https://image.tmdb.org/t/p/w500/d6gnFwpUbVYSfKwJWBZccxjpFGX.jpg"
+    },
+    {
+      "title": "Transformers One",
+      "descripcion": "The untold origin story of Optimus Prime and Megatron, better known as sworn enemies, but once were friends bonded like brothers who changed the fate of Cybertron forever.",
+      "genero": [ "Animation", "Science Fiction", "Adventure", "Family" ],
+      "actores": [
+        "Chris Hemsworth",
+        "Brian Tyree Henry",
+        "Scarlett Johansson",
+        "Keegan-Michael Key",
+        "Jon Hamm"
+      ],
+      "calificacion": 8.2,
+      "fecha_publicacion": "2024-09-11",
+      "duration": "N/A",
+      "coverImage": "https://image.tmdb.org/t/p/w500/iHPIBzrjJHbXeY9y7VVbEVNt7LW.jpg",
+      "backdropImage": "https://image.tmdb.org/t/p/w500/zViRwl3ySscZnbXZJ2Q9wq3SeUG.jpg"
+    },
+    {
+      "title": "Joker: Folie à Deux",
+      "descripcion": "While struggling with his dual identity, Arthur Fleck not only stumbles upon true love, but also finds the music that's always been inside him.",
+      "genero": [ "Drama", "Crime", "Thriller" ],
+      "actores": [
+        "Joaquin Phoenix",
+        "Lady Gaga",
+        "Brendan Gleeson",
+        "Catherine Keener",
+        "Zazie Beetz"
+      ],
+      "calificacion": 5.681,
+      "fecha_publicacion": "2024-10-01",
+      "duration": "N/A",
+      "coverImage": "https://image.tmdb.org/t/p/w500/if8QiqCI7WAGImKcJCfzp6VTyKA.jpg",
+      "backdropImage": "https://image.tmdb.org/t/p/w500/uGmYqxh8flqkudioyFtD7IJSHxK.jpg"
+    },
+    {
+      "title": "Deadpool & Wolverine",
+      "descripcion": "A listless Wade Wilson toils away in civilian life with his days as the morally flexible mercenary, Deadpool, behind him. But when his homeworld faces an existential threat, Wade must reluctantly suit-up again with an even more reluctant Wolverine.",
+      "genero": [ "Action", "Comedy", "Science Fiction" ],
+      "actores": [
+        "Ryan Reynolds",
+        "Hugh Jackman",
+        "Emma Corrin",
+        "Matthew Macfadyen",
+        "Dafne Keen"
+      ],
+      "calificacion": 7.706,
+      "fecha_publicacion": "2024-07-24",
+      "duration": "N/A",
+      "coverImage": "https://image.tmdb.org/t/p/w500/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg",
+      "backdropImage": "https://image.tmdb.org/t/p/w500/yDHYTfA3R0jFYba16jBB1ef8oIt.jpg"
+    },
+    {
+      "title": "The Count of Monte-Cristo",
+      "descripcion": "Edmond Dantes becomes the target of a sinister plot and is arrested on his wedding day for a crime he did not commit. After 14 years in the island prison of Château d’If, he manages a daring escape. Now rich beyond his dreams, he assumes the identity of the Count of Monte-Cristo and exacts his revenge on the three men who betrayed him.",
+      "genero": [
+        "Adventure",
+        "History",
+        "Action",
+        "Drama",
+        "Romance",
+        "Thriller"
+      ],
+      "actores": [
+        "Pierre Niney",
+        "Bastien Bouillon",
+        "Anaïs Demoustier",
+        "Anamaria Vartolomei",
+        "Laurent Lafitte"
+      ],
+      "calificacion": 8.3,
+      "fecha_publicacion": "2024-06-28",
+      "duration": "N/A",
+      "coverImage": "https://image.tmdb.org/t/p/w500/zw4kV7npGtaqvUxvJE9IdqdFsNc.jpg",
+      "backdropImage": "https://image.tmdb.org/t/p/w500/llIXQAndg5kB6SWlp6ouUdO7Zxd.jpg"
+    },
+    {
+      "title": "Arcadian",
+      "descripcion": "In the near future, on a decimated Earth, Paul and his twin sons face terror at night when ferocious creatures awaken. When Paul is nearly killed, the boys come up with a plan for survival, using everything their father taught them to keep him alive.",
+      "genero": [ "Action", "Horror", "Thriller", "Science Fiction" ],
+      "actores": [
+        "Nicolas Cage",
+        "Jaeden Martell",
+        "Maxwell Jenkins",
+        "Sadie Soverall",
+        "Samantha Coughlan"
+      ],
+      "calificacion": 6.028,
+      "fecha_publicacion": "2024-04-12",
+      "duration": "N/A",
+      "coverImage": "https://image.tmdb.org/t/p/w500/spWV1eRzlDxvai8LbxwAWR0Vst4.jpg",
+      "backdropImage": "https://image.tmdb.org/t/p/w500/9s9o9RT9Yj6nDuRJjnJm78WFoFl.jpg"
+    },
+    {
+      "title": "Venom",
+      "descripcion": "Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for a symbiote of their own.",
+      "genero": [ "Science Fiction", "Action" ],
+      "actores": [
+        "Tom Hardy",
+        "Michelle Williams",
+        "Riz Ahmed",
+        "Scott Haze",
+        "Reid Scott"
+      ],
+      "calificacion": 6.835,
+      "fecha_publicacion": "2018-09-28",
+      "duration": "N/A",
+      "coverImage": "https://image.tmdb.org/t/p/w500/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg",
+      "backdropImage": "https://image.tmdb.org/t/p/w500/VuukZLgaCrho2Ar8Scl9HtV3yD.jpg"
+    },
+    {
+      "title": "Alien: Romulus",
+      "descripcion": "While scavenging the deep ends of a derelict space station, a group of young space colonizers come face to face with the most terrifying life form in the universe.",
+      "genero": [ "Science Fiction", "Horror" ],
+      "actores": [
+        "Cailee Spaeny",
+        "David Jonsson",
+        "Archie Renaux",
+        "Isabela Merced",
+        "Spike Fearn"
+      ],
+      "calificacion": 7.264,
+      "fecha_publicacion": "2024-08-13",
+      "duration": "N/A",
+      "coverImage": "https://image.tmdb.org/t/p/w500/b33nnKl1GSFbao4l3fZDDqsMx0F.jpg",
+      "backdropImage": "https://image.tmdb.org/t/p/w500/6vn6K9oX82i6E86ZiHVxqVEMQqP.jpg"
+    },
+    {
+      "title": "Venom: Let There Be Carnage",
+      "descripcion": "After finding a host body in investigative reporter Eddie Brock, the alien symbiote must face a new enemy, Carnage, the alter ego of serial killer Cletus Kasady.",
+      "genero": [ "Science Fiction", "Action", "Adventure" ],
+      "actores": [
+        "Tom Hardy",
+        "Woody Harrelson",
+        "Michelle Williams",
+        "Naomie Harris",
+        "Reid Scott"
+      ],
+      "calificacion": 6.8,
+      "fecha_publicacion": "2021-09-30",
+      "duration": "N/A",
+      "coverImage": "https://image.tmdb.org/t/p/w500/1MJNcPZy46hIy2CmSqOeru0yr5C.jpg",
+      "backdropImage": "https://image.tmdb.org/t/p/w500/vIgyYkXkg6NC2whRbYjBD7eb3Er.jpg"
+    },
+    {
+      "title": "Red One",
+      "descripcion": "After Santa Claus (codename: Red One) is kidnapped, the North Pole's Head of Security must team up with the world's most infamous bounty hunter in a globe-trotting, action-packed mission to save Christmas.",
+      "genero": [ "Comedy", "Action", "Fantasy" ],
+      "actores": [
+        "Dwayne Johnson",
+        "Chris Evans",
+        "J.K. Simmons",
+        "Lucy Liu",
+        "Kiernan Shipka"
+      ],
+      "calificacion": 7.7,
+      "fecha_publicacion": "2024-10-31",
+      "duration": "N/A",
+      "coverImage": "https://image.tmdb.org/t/p/w500/cdqLnri3NEGcmfnqwk2TSIYtddg.jpg",
+      "backdropImage": "https://image.tmdb.org/t/p/w500/rOmUuQEZfPXglwFs5ELLLUDKodL.jpg"
+    },
+    {
+      "title": "Apocalypse Z: The Beginning of the End",
+      "descripcion": "When a kind of rabies that transforms people into aggressive creatures spreads across the planet, Manel isolates himself at home with his cat, relying on his wits to survive; but soon they must go out in search of food, by land and by sea, dodging many dangers.",
+      "genero": [ "Drama", "Action", "Horror" ],
+      "actores": [
+        "Francisco Ortiz",
+        "José María Yázpik",
+        "Berta Vázquez",
+        "Iria del Río",
+        "Marta Poveda"
+      ],
+      "calificacion": 6.7,
+      "fecha_publicacion": "2024-10-04",
+      "duration": "N/A",
+      "coverImage": "https://image.tmdb.org/t/p/w500/wIGJnIFQlESkC2rLpfA8EDHqk4g.jpg",
+      "backdropImage": "https://image.tmdb.org/t/p/w500/2fxnTXr8NwyTFkunkimJkGkhqfy.jpg"
+    },
+    {
+      "title": "Survive",
+      "descripcion": "A couple celebrates their son’s birthday in the middle of the ocean on their boat. A violent storm hits and it brings up hungry creatures from the depths and they fight for their survival.",
+      "genero": [ "Thriller", "Adventure", "Action", "Science Fiction" ],
+      "actores": [
+        "Andreas Pietschmann",
+        "Émilie Dequenne",
+        "Lucas Ebel",
+        "Arben Bajraktaraj",
+        "Lisa Delamar"
+      ],
+      "calificacion": 5,
+      "fecha_publicacion": "2024-06-19",
+      "duration": "N/A",
+      "coverImage": "https://image.tmdb.org/t/p/w500/7fR3KxswtY8OHHZuOUB9td58CRX.jpg",
+      "backdropImage": "https://image.tmdb.org/t/p/w500/csQSGH0QU8D3Ov5YLEYuHep8ihA.jpg"
+    },
+    {
+      "title": "Heavenly Touch",
+      "descripcion": "Jonard is having trouble making ends meet. His mother is suffering from depression, and he and his sister are forced to quit school in order to take care of her. One day, Jonard meets up his friend Rodel, and Rodel introduces him to the world of massage parlors. Rodel teaches him massage, and brings him to Heavenly Touch, a syndicate-run massage parlor that mostly caters to homosexuals.",
+      "genero": [ "Drama", "Romance" ],
+      "actores": [
+        "Paolo Serrano",
+        "Joash Balejado",
+        "Marco Morales",
+        "Gwen Garci",
+        "Paolo Rivero"
+      ],
+      "calificacion": 6.3,
+      "fecha_publicacion": "2009-05-12",
+      "duration": "N/A",
+      "coverImage": "https://image.tmdb.org/t/p/w500/ory8WuAqznTE7lfopTSymHpop2t.jpg",
+      "backdropImage": "https://image.tmdb.org/t/p/w500/9msuazXGWAyl7vhxVFU7e7Bb5Ik.jpg"
+    },
+    {
+      "title": "Inside Out 2",
+      "descripcion": "Teenager Riley's mind headquarters is undergoing a sudden demolition to make room for something entirely unexpected: new Emotions! Joy, Sadness, Anger, Fear and Disgust, who’ve long been running a successful operation by all accounts, aren’t sure how to feel when Anxiety shows up. And it looks like she’s not alone.",
+      "genero": [ "Animation", "Family", "Adventure", "Comedy", "Drama" ],
+      "actores": [
+        "Amy Poehler",
+        "Maya Hawke",
+        "Kensington Tallman",
+        "Liza Lapira",
+        "Tony Hale"
+      ],
+      "calificacion": 7.6,
+      "fecha_publicacion": "2024-06-11",
+      "duration": "N/A",
+      "coverImage": "https://image.tmdb.org/t/p/w500/vpnVM9B6NMmQpWeZvzLvDESb2QY.jpg",
+      "backdropImage": "https://image.tmdb.org/t/p/w500/p5ozvmdgsmbWe0H8Xk7Rc8SCwAB.jpg"
+    },
+    {
+      "title": "Canary Black",
+      "descripcion": "Top level CIA agent Avery Graves is blackmailed by terrorists into betraying her own country to save her kidnapped husband. Cut off from her team, she turns to her underworld contacts to survive and help locate the coveted intelligence that the kidnappers want.",
+      "genero": [ "Action", "Thriller", "Crime" ],
+      "actores": [
+        "Kate Beckinsale",
+        "Rupert Friend",
+        "Saffron Burrows",
+        "Ray Stevenson",
+        "Goran Kostić"
+      ],
+      "calificacion": 6.4,
+      "fecha_publicacion": "2024-10-10",
+      "duration": "N/A",
+      "coverImage": "https://image.tmdb.org/t/p/w500/hhiR6uUbTYYvKoACkdAIQPS5c6f.jpg",
+      "backdropImage": "https://image.tmdb.org/t/p/w500/begseNUKhZcc05Bc1UggaX5GeES.jpg"
+    },
+    {
+      "title": "Terrifier",
+      "descripcion": "A maniacal clown named Art terrorizes three young women on Halloween night and everyone else who stands in his way.",
+      "genero": [ "Horror", "Thriller" ],
+      "actores": [
+        "David Howard Thornton",
+        "Jenna Kanell",
+        "Samantha Scaffidi",
+        "Catherine Corcoran",
+        "Pooya Mohseni"
+      ],
+      "calificacion": 6.386,
+      "fecha_publicacion": "2018-01-25",
+      "duration": "N/A",
+      "coverImage": "https://image.tmdb.org/t/p/w500/sFaPj5UyIAsiRuIgVl60pCYUzmR.jpg",
+      "backdropImage": "https://image.tmdb.org/t/p/w500/fBNnj5bQ5YhzPUzxIW1UvLVZepP.jpg"
+    },
+    {
+      "title": "Despicable Me 4",
+      "descripcion": "Gru and Lucy and their girls—Margo, Edith and Agnes—welcome a new member to the Gru family, Gru Jr., who is intent on tormenting his dad. Gru also faces a new nemesis in Maxime Le Mal and his femme fatale girlfriend Valentina, forcing the family to go on the run.",
+      "genero": [ "Animation", "Family", "Comedy", "Action" ],
+      "actores": [
+        "Steve Carell",
+        "Kristen Wiig",
+        "Will Ferrell",
+        "Sofía Vergara",
+        "Miranda Cosgrove"
+      ],
+      "calificacion": 7.108,
+      "fecha_publicacion": "2024-06-20",
+      "duration": "N/A",
+      "coverImage": "https://image.tmdb.org/t/p/w500/wWba3TaojhK7NdycRhoQpsG0FaH.jpg",
+      "backdropImage": "https://image.tmdb.org/t/p/w500/lgkPzcOSnTvjeMnuFzozRO5HHw1.jpg"
+    }, {
+        "title": "Terrifier 3",
+        "descripcion": "Five years after surviving Art the Clown's Halloween massacre, Sienna and Jonathan are still struggling to rebuild their shattered lives. As the holiday season approaches, they try to embrace the Christmas spirit and leave the horrors of the past behind. But just when they think they're safe, Art returns, determined to turn their holiday cheer into a new nightmare. The festive season quickly unravels as Art unleashes his twisted brand of terror, proving that no holiday is safe.",
+        "genero": [ "Horror", "Thriller", "Mystery" ],
+        "actores": [
+          "Samantha Scaffidi",
+          "David Howard Thornton",
+          "Margaret Anne Florence",
+          "Bryce Johnson",
+          "Alexa Blair Robertson"
+        ],
+        "calificacion": 7.2,
+        "fecha_publicacion": "2024-10-09",
+        "duration": "N/A",
+        "coverImage": "https://image.tmdb.org/t/p/w500/63xYQj1BwRFielxsBDXvHIJyXVm.jpg",
+        "backdropImage": "https://image.tmdb.org/t/p/w500/gMQibswELoKmB60imE7WFMlCuqY.jpg"
+      },
+      {
+        "title": "Venom: The Last Dance",
+        "descripcion": "Eddie and Venom are on the run. Hunted by both of their worlds and with the net closing in, the duo are forced into a devastating decision that will bring the curtains down on Venom and Eddie's last dance.",
+        "genero": [ "Science Fiction", "Action", "Adventure" ],
+        "actores": [
+          "Tom Hardy",
+          "Chiwetel Ejiofor",
+          "Juno Temple",
+          "Clark Backo",
+          "Rhys Ifans"
+        ],
+        "calificacion": 6.642,
+        "fecha_publicacion": "2024-10-22",
+        "duration": "N/A",
+        "coverImage": "https://image.tmdb.org/t/p/w500/aosm8NMQ3UyoBVpSxyimorCQykC.jpg",
+        "backdropImage": "https://image.tmdb.org/t/p/w500/3V4kLQg0kSqPLctI5ziYWabAZYF.jpg"
+      },
+      {
+        "title": "The Wild Robot",
+        "descripcion": "After a shipwreck, an intelligent robot called Roz is stranded on an uninhabited island. To survive the harsh environment, Roz bonds with the island's animals and cares for an orphaned baby goose.",
+        "genero": [ "Animation", "Science Fiction", "Family" ],
+        "actores": [
+          "Lupita Nyong'o",
+          "Pedro Pascal",
+          "Kit Connor",
+          "Bill Nighy",
+          "Stephanie Hsu"
+        ],
+        "calificacion": 8.537,
+        "fecha_publicacion": "2024-09-12",
+        "duration": "N/A",
+        "coverImage": "https://image.tmdb.org/t/p/w500/wTnV3PCVW5O92JMrFvvrRcV39RU.jpg",
+        "backdropImage": "https://image.tmdb.org/t/p/w500/v9acaWVVFdZT5yAU7J2QjwfhXyD.jpg"
+      },
+      {
+        "title": "The Substance",
+        "descripcion": "A fading celebrity decides to use a black market drug, a cell-replicating substance that temporarily creates a younger, better version of herself.",
+        "genero": [ "Drama", "Horror", "Science Fiction" ],
+        "actores": [
+          "Demi Moore",
+          "Margaret Qualley",
+          "Dennis Quaid",
+          "Edward Hamilton-Clark",
+          "Gore Abrams"
+        ],
+        "calificacion": 7.3,
+        "fecha_publicacion": "2024-09-07",
+        "duration": "N/A",
+        "coverImage": "https://image.tmdb.org/t/p/w500/lqoMzCcZYEFK729d6qzt349fB4o.jpg",
+        "backdropImage": "https://image.tmdb.org/t/p/w500/d6gnFwpUbVYSfKwJWBZccxjpFGX.jpg"
+      },
+      {
+        "title": "Transformers One",
+        "descripcion": "The untold origin story of Optimus Prime and Megatron, better known as sworn enemies, but once were friends bonded like brothers who changed the fate of Cybertron forever.",
+        "genero": [ "Animation", "Science Fiction", "Adventure", "Family" ],
+        "actores": [
+          "Chris Hemsworth",
+          "Brian Tyree Henry",
+          "Scarlett Johansson",
+          "Keegan-Michael Key",
+          "Jon Hamm"
+        ],
+        "calificacion": 8.2,
+        "fecha_publicacion": "2024-09-11",
+        "duration": "N/A",
+        "coverImage": "https://image.tmdb.org/t/p/w500/iHPIBzrjJHbXeY9y7VVbEVNt7LW.jpg",
+        "backdropImage": "https://image.tmdb.org/t/p/w500/zViRwl3ySscZnbXZJ2Q9wq3SeUG.jpg"
+      },
+      {
+        "title": "Joker: Folie à Deux",
+        "descripcion": "While struggling with his dual identity, Arthur Fleck not only stumbles upon true love, but also finds the music that's always been inside him.",
+        "genero": [ "Drama", "Crime", "Thriller" ],
+        "actores": [
+          "Joaquin Phoenix",
+          "Lady Gaga",
+          "Brendan Gleeson",
+          "Catherine Keener",
+          "Zazie Beetz"
+        ],
+        "calificacion": 5.681,
+        "fecha_publicacion": "2024-10-01",
+        "duration": "N/A",
+        "coverImage": "https://image.tmdb.org/t/p/w500/if8QiqCI7WAGImKcJCfzp6VTyKA.jpg",
+        "backdropImage": "https://image.tmdb.org/t/p/w500/uGmYqxh8flqkudioyFtD7IJSHxK.jpg"
+      },
+      {
+        "title": "Deadpool & Wolverine",
+        "descripcion": "A listless Wade Wilson toils away in civilian life with his days as the morally flexible mercenary, Deadpool, behind him. But when his homeworld faces an existential threat, Wade must reluctantly suit-up again with an even more reluctant Wolverine.",
+        "genero": [ "Action", "Comedy", "Science Fiction" ],
+        "actores": [
+          "Ryan Reynolds",
+          "Hugh Jackman",
+          "Emma Corrin",
+          "Matthew Macfadyen",
+          "Dafne Keen"
+        ],
+        "calificacion": 7.706,
+        "fecha_publicacion": "2024-07-24",
+        "duration": "N/A",
+        "coverImage": "https://image.tmdb.org/t/p/w500/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg",
+        "backdropImage": "https://image.tmdb.org/t/p/w500/yDHYTfA3R0jFYba16jBB1ef8oIt.jpg"
+      },
+      {
+        "title": "The Count of Monte-Cristo",
+        "descripcion": "Edmond Dantes becomes the target of a sinister plot and is arrested on his wedding day for a crime he did not commit. After 14 years in the island prison of Château d’If, he manages a daring escape. Now rich beyond his dreams, he assumes the identity of the Count of Monte-Cristo and exacts his revenge on the three men who betrayed him.",
+        "genero": [
+          "Adventure",
+          "History",
+          "Action",
+          "Drama",
+          "Romance",
+          "Thriller"
+        ],
+        "actores": [
+          "Pierre Niney",
+          "Bastien Bouillon",
+          "Anaïs Demoustier",
+          "Anamaria Vartolomei",
+          "Laurent Lafitte"
+        ],
+        "calificacion": 8.3,
+        "fecha_publicacion": "2024-06-28",
+        "duration": "N/A",
+        "coverImage": "https://image.tmdb.org/t/p/w500/zw4kV7npGtaqvUxvJE9IdqdFsNc.jpg",
+        "backdropImage": "https://image.tmdb.org/t/p/w500/llIXQAndg5kB6SWlp6ouUdO7Zxd.jpg"
+      },
+      {
+        "title": "Arcadian",
+        "descripcion": "In the near future, on a decimated Earth, Paul and his twin sons face terror at night when ferocious creatures awaken. When Paul is nearly killed, the boys come up with a plan for survival, using everything their father taught them to keep him alive.",
+        "genero": [ "Action", "Horror", "Thriller", "Science Fiction" ],
+        "actores": [
+          "Nicolas Cage",
+          "Jaeden Martell",
+          "Maxwell Jenkins",
+          "Sadie Soverall",
+          "Samantha Coughlan"
+        ],
+        "calificacion": 6.028,
+        "fecha_publicacion": "2024-04-12",
+        "duration": "N/A",
+        "coverImage": "https://image.tmdb.org/t/p/w500/spWV1eRzlDxvai8LbxwAWR0Vst4.jpg",
+        "backdropImage": "https://image.tmdb.org/t/p/w500/9s9o9RT9Yj6nDuRJjnJm78WFoFl.jpg"
+      },
+      {
+        "title": "Venom",
+        "descripcion": "Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for a symbiote of their own.",
+        "genero": [ "Science Fiction", "Action" ],
+        "actores": [
+          "Tom Hardy",
+          "Michelle Williams",
+          "Riz Ahmed",
+          "Scott Haze",
+          "Reid Scott"
+        ],
+        "calificacion": 6.835,
+        "fecha_publicacion": "2018-09-28",
+        "duration": "N/A",
+        "coverImage": "https://image.tmdb.org/t/p/w500/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg",
+        "backdropImage": "https://image.tmdb.org/t/p/w500/VuukZLgaCrho2Ar8Scl9HtV3yD.jpg"
+      },
+      {
+        "title": "Alien: Romulus",
+        "descripcion": "While scavenging the deep ends of a derelict space station, a group of young space colonizers come face to face with the most terrifying life form in the universe.",
+        "genero": [ "Science Fiction", "Horror" ],
+        "actores": [
+          "Cailee Spaeny",
+          "David Jonsson",
+          "Archie Renaux",
+          "Isabela Merced",
+          "Spike Fearn"
+        ],
+        "calificacion": 7.264,
+        "fecha_publicacion": "2024-08-13",
+        "duration": "N/A",
+        "coverImage": "https://image.tmdb.org/t/p/w500/b33nnKl1GSFbao4l3fZDDqsMx0F.jpg",
+        "backdropImage": "https://image.tmdb.org/t/p/w500/6vn6K9oX82i6E86ZiHVxqVEMQqP.jpg"
+      },
+      {
+        "title": "Venom: Let There Be Carnage",
+        "descripcion": "After finding a host body in investigative reporter Eddie Brock, the alien symbiote must face a new enemy, Carnage, the alter ego of serial killer Cletus Kasady.",
+        "genero": [ "Science Fiction", "Action", "Adventure" ],
+        "actores": [
+          "Tom Hardy",
+          "Woody Harrelson",
+          "Michelle Williams",
+          "Naomie Harris",
+          "Reid Scott"
+        ],
+        "calificacion": 6.8,
+        "fecha_publicacion": "2021-09-30",
+        "duration": "N/A",
+        "coverImage": "https://image.tmdb.org/t/p/w500/1MJNcPZy46hIy2CmSqOeru0yr5C.jpg",
+        "backdropImage": "https://image.tmdb.org/t/p/w500/vIgyYkXkg6NC2whRbYjBD7eb3Er.jpg"
+      },
+      {
+        "title": "Red One",
+        "descripcion": "After Santa Claus (codename: Red One) is kidnapped, the North Pole's Head of Security must team up with the world's most infamous bounty hunter in a globe-trotting, action-packed mission to save Christmas.",
+        "genero": [ "Comedy", "Action", "Fantasy" ],
+        "actores": [
+          "Dwayne Johnson",
+          "Chris Evans",
+          "J.K. Simmons",
+          "Lucy Liu",
+          "Kiernan Shipka"
+        ],
+        "calificacion": 7.7,
+        "fecha_publicacion": "2024-10-31",
+        "duration": "N/A",
+        "coverImage": "https://image.tmdb.org/t/p/w500/cdqLnri3NEGcmfnqwk2TSIYtddg.jpg",
+        "backdropImage": "https://image.tmdb.org/t/p/w500/rOmUuQEZfPXglwFs5ELLLUDKodL.jpg"
+      },
+      {
+        "title": "Apocalypse Z: The Beginning of the End",
+        "descripcion": "When a kind of rabies that transforms people into aggressive creatures spreads across the planet, Manel isolates himself at home with his cat, relying on his wits to survive; but soon they must go out in search of food, by land and by sea, dodging many dangers.",
+        "genero": [ "Drama", "Action", "Horror" ],
+        "actores": [
+          "Francisco Ortiz",
+          "José María Yázpik",
+          "Berta Vázquez",
+          "Iria del Río",
+          "Marta Poveda"
+        ],
+        "calificacion": 6.7,
+        "fecha_publicacion": "2024-10-04",
+        "duration": "N/A",
+        "coverImage": "https://image.tmdb.org/t/p/w500/wIGJnIFQlESkC2rLpfA8EDHqk4g.jpg",
+        "backdropImage": "https://image.tmdb.org/t/p/w500/2fxnTXr8NwyTFkunkimJkGkhqfy.jpg"
+      },
+      {
+        "title": "Survive",
+        "descripcion": "A couple celebrates their son’s birthday in the middle of the ocean on their boat. A violent storm hits and it brings up hungry creatures from the depths and they fight for their survival.",
+        "genero": [ "Thriller", "Adventure", "Action", "Science Fiction" ],
+        "actores": [
+          "Andreas Pietschmann",
+          "Émilie Dequenne",
+          "Lucas Ebel",
+          "Arben Bajraktaraj",
+          "Lisa Delamar"
+        ],
+        "calificacion": 5,
+        "fecha_publicacion": "2024-06-19",
+        "duration": "N/A",
+        "coverImage": "https://image.tmdb.org/t/p/w500/7fR3KxswtY8OHHZuOUB9td58CRX.jpg",
+        "backdropImage": "https://image.tmdb.org/t/p/w500/csQSGH0QU8D3Ov5YLEYuHep8ihA.jpg"
+      },
+      {
+        "title": "Heavenly Touch",
+        "descripcion": "Jonard is having trouble making ends meet. His mother is suffering from depression, and he and his sister are forced to quit school in order to take care of her. One day, Jonard meets up his friend Rodel, and Rodel introduces him to the world of massage parlors. Rodel teaches him massage, and brings him to Heavenly Touch, a syndicate-run massage parlor that mostly caters to homosexuals.",
+        "genero": [ "Drama", "Romance" ],
+        "actores": [
+          "Paolo Serrano",
+          "Joash Balejado",
+          "Marco Morales",
+          "Gwen Garci",
+          "Paolo Rivero"
+        ],
+        "calificacion": 6.3,
+        "fecha_publicacion": "2009-05-12",
+        "duration": "N/A",
+        "coverImage": "https://image.tmdb.org/t/p/w500/ory8WuAqznTE7lfopTSymHpop2t.jpg",
+        "backdropImage": "https://image.tmdb.org/t/p/w500/9msuazXGWAyl7vhxVFU7e7Bb5Ik.jpg"
+      },
+      {
+        "title": "Inside Out 2",
+        "descripcion": "Teenager Riley's mind headquarters is undergoing a sudden demolition to make room for something entirely unexpected: new Emotions! Joy, Sadness, Anger, Fear and Disgust, who’ve long been running a successful operation by all accounts, aren’t sure how to feel when Anxiety shows up. And it looks like she’s not alone.",
+        "genero": [ "Animation", "Family", "Adventure", "Comedy", "Drama" ],
+        "actores": [
+          "Amy Poehler",
+          "Maya Hawke",
+          "Kensington Tallman",
+          "Liza Lapira",
+          "Tony Hale"
+        ],
+        "calificacion": 7.6,
+        "fecha_publicacion": "2024-06-11",
+        "duration": "N/A",
+        "coverImage": "https://image.tmdb.org/t/p/w500/vpnVM9B6NMmQpWeZvzLvDESb2QY.jpg",
+        "backdropImage": "https://image.tmdb.org/t/p/w500/p5ozvmdgsmbWe0H8Xk7Rc8SCwAB.jpg"
+      },
+      {
+        "title": "Canary Black",
+        "descripcion": "Top level CIA agent Avery Graves is blackmailed by terrorists into betraying her own country to save her kidnapped husband. Cut off from her team, she turns to her underworld contacts to survive and help locate the coveted intelligence that the kidnappers want.",
+        "genero": [ "Action", "Thriller", "Crime" ],
+        "actores": [
+          "Kate Beckinsale",
+          "Rupert Friend",
+          "Saffron Burrows",
+          "Ray Stevenson",
+          "Goran Kostić"
+        ],
+        "calificacion": 6.4,
+        "fecha_publicacion": "2024-10-10",
+        "duration": "N/A",
+        "coverImage": "https://image.tmdb.org/t/p/w500/hhiR6uUbTYYvKoACkdAIQPS5c6f.jpg",
+        "backdropImage": "https://image.tmdb.org/t/p/w500/begseNUKhZcc05Bc1UggaX5GeES.jpg"
+      },
+      {
+        "title": "Terrifier",
+        "descripcion": "A maniacal clown named Art terrorizes three young women on Halloween night and everyone else who stands in his way.",
+        "genero": [ "Horror", "Thriller" ],
+        "actores": [
+          "David Howard Thornton",
+          "Jenna Kanell",
+          "Samantha Scaffidi",
+          "Catherine Corcoran",
+          "Pooya Mohseni"
+        ],
+        "calificacion": 6.386,
+        "fecha_publicacion": "2018-01-25",
+        "duration": "N/A",
+        "coverImage": "https://image.tmdb.org/t/p/w500/sFaPj5UyIAsiRuIgVl60pCYUzmR.jpg",
+        "backdropImage": "https://image.tmdb.org/t/p/w500/fBNnj5bQ5YhzPUzxIW1UvLVZepP.jpg"
+      },
+      {
+        "title": "Despicable Me 4",
+        "descripcion": "Gru and Lucy and their girls—Margo, Edith and Agnes—welcome a new member to the Gru family, Gru Jr., who is intent on tormenting his dad. Gru also faces a new nemesis in Maxime Le Mal and his femme fatale girlfriend Valentina, forcing the family to go on the run.",
+        "genero": [ "Animation", "Family", "Comedy", "Action" ],
+        "actores": [
+          "Steve Carell",
+          "Kristen Wiig",
+          "Will Ferrell",
+          "Sofía Vergara",
+          "Miranda Cosgrove"
+        ],
+        "calificacion": 7.108,
+        "fecha_publicacion": "2024-06-20",
+        "duration": "N/A",
+        "coverImage": "https://image.tmdb.org/t/p/w500/wWba3TaojhK7NdycRhoQpsG0FaH.jpg",
+        "backdropImage": "https://image.tmdb.org/t/p/w500/lgkPzcOSnTvjeMnuFzozRO5HHw1.jpg"
+      }
+  ]
