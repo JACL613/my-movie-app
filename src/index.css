@@ -2,4 +2,18 @@
 @tailwind components;
 @tailwind utilities;
 
+marquee {
+    animation: marquee 3s linear infinite;
+    color: rgb(255, 251, 251);
+    font-weight: bolder;
+    background-color: rgb(8, 8, 8);
+    letter-spacing: 4px;
+    text-shadow: 0 0 10px red,
+                0 0 20px red,
+                0 0 40px red,
+                0 0 80px red; 
+}
 
+body {
+    background-color: black;
+}

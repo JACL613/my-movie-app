@@ -26,6 +26,9 @@ function App() {
   if (!movies) return <h1>Loading...</h1>
   return (
     <>
+    <marquee direction="">
+      Bienvenidos a Pelis24h. Disfruta de todo el contenido gratuito.
+    </marquee>
     {/* <h1>Movies App</h1> */}
       <MovieGallery movies={movies}/>
     </>
