@@ -54,6 +54,21 @@ const MovieCard = ({ movie, onClick }) => (
 export default function MovieGallery({ movies }) {
   const [selectedMovie, setSelectedMovie] = useState(null)
   const [showAddForm, setShowAddForm] = useState(false)
+  const handleTrailerClick = (trailerUrl) => {
+    if (trailerUrl) {
+      // Validar si es una URL de YouTube válida
+      if (trailerUrl.includes('youtube.com') || trailerUrl.includes('youtu.be')) {
+        window.open(trailerUrl, '_blank', 'noopener,noreferrer');
+      } else {
+        // Si la URL no es de YouTube, intentamos construirla
+        // Asumiendo que trailerUrl podría ser solo el ID del video
+        const youtubeUrl = `https://www.youtube.com/watch?v=${trailerUrl}`;
+        window.open(youtubeUrl, '_blank', 'noopener,noreferrer');
+      }
+    } else {
+      alert('No hay trailer disponible para esta película.');
+    }
+  };
 
   return (
     <div className="min-h-screen bg-black text-white">
@@ -101,10 +116,15 @@ export default function MovieGallery({ movies }) {
                     <Play className="w-4 h-4 mr-2" />
                     Ver Ahora
                   </Button>
-                  <Button className="bg-gray-600 hover:bg-gray-700">
-                    <Info className="w-4 h-4 mr-2" />
-                    Ver Trailer
+                  {selectedMovie.trailerUrl && (
+                  <Button 
+                  className="bg-gray-600 hover:bg-gray-700"
+                  onClick={() => handleTrailerClick(selectedMovie.trailerUrl)}
+                  >
+                  <Info className="w-4 h-4 mr-2" />
+                  Ver Trailer
                   </Button>
+                  )}
                 </div>
               </div>
             </div>
