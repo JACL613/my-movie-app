@@ -1,13 +1,14 @@
 import  { useState } from 'react'
 
-export default function Form() {
+// eslint-disable-next-line react/prop-types
+export default function Form({ className}) {
     const [movie, setMovie] = useState({
         title: '',
-        year: '',
-        rating: '',
-        genres: '',
+        fecha_publicacion: '',
+        calificacion: '',
+        genero: '',
         duration: '',
-        description: '',
+        descripcion: '',
         coverImage: '',
         backdropImage: ''
       })
@@ -16,27 +17,37 @@ export default function Form() {
         const { name, value } = e.target
         setMovie(prevMovie => ({
           ...prevMovie,
-          [name]: name === 'genres' ? value.split(',').map(genre => genre.trim()) : value
+          [name]: name === 'genero' ? value.split(',').map(genre => genre.trim()) : value
         }))
       }
 
       const handleSubmit = (e) => {
         e.preventDefault()
+        fetch('http://localhost:3000/api/peliculas', {
+          method: 'POST',
+          headers:{
+            'Content-Type': 'application/json'
+          },
+          body: JSON.stringify({...movie})
+        })
+        .then(response => response.json())
+        .then(data => console.log(data))
+        .catch(error => console.error('Error:', error))
         // onAddMovie({...movie, id: Date.now()})
         setMovie({
           title: '',
-          year: '',
-          rating: '',
-          genres: '',
+          fecha_publicacion: '',
+          calificacion: '',
+          genero: '',
           duration: '',
-          description: '',
+          descripcion: '',
           coverImage: '',
           backdropImage: ''
         })
       }
 
   return (
-    <form onSubmit={handleSubmit} className="bg-gray-800 p-6 rounded-lg shadow-lg">
+    <form onSubmit={handleSubmit} className={`bg-gray-800 p-6 rounded-lg shadow-lg fixed z-20  ${className}`}>
     <h2 className="text-2xl font-bold mb-4">Add New Movie</h2>
     <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
       <input
@@ -50,8 +61,8 @@ export default function Form() {
       />
       <input
         type="number"
-        name="year"
-        value={movie.year}
+        name="fecha_publicacion"
+        value={movie.fecha_publicacion}
         onChange={handleChange}
         placeholder="Year"
         className="bg-gray-700 text-white p-2 rounded"
@@ -59,8 +70,8 @@ export default function Form() {
       />
       <input
         type="number"
-        name="rating"
-        value={movie.rating}
+        name="calificacion"
+        value={movie.calificacion}
         onChange={handleChange}
         placeholder="Rating"
         step="0.1"
@@ -71,8 +82,8 @@ export default function Form() {
       />
       <input
         type="text"
-        name="genres"
-        value={movie.genres}
+        name="genero"
+        value={movie.genero}
         onChange={handleChange}
         placeholder="Genres (comma-separated)"
         className="bg-gray-700 text-white p-2 rounded"
@@ -107,15 +118,15 @@ export default function Form() {
       />
     </div>
     <textarea
-      name="description"
-      value={movie.description}
+      name="descripcion"
+      value={movie.descripcion}
       onChange={handleChange}
       placeholder="Description"
       className="bg-gray-700 text-white p-2 rounded w-full mt-4"
       rows="4"
       required
     ></textarea>
-    <button type="submit" className="bg-blue-600 hover:bg-blue-700 mt-4">
+    <button type="submit" className="bg-blue-600 hover:bg-blue-700 mt-4 px-3 py-1 rounded-md" >
       Add Movie
     </button>
   </form>
