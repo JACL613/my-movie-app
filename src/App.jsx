@@ -23,15 +23,26 @@ function App() {
     })
   }, [])
 
-  if (!movies) return <h1>Loading...</h1>
+  //banner superior de bienvenida
+  if (!movies) return <h1 style={{ color: 'black', textAlign: 'center' }}>Cargando...</h1>;
   return (
-    <>
-    <marquee direction="">
-      Bienvenidos a Pelis24h. Disfruta de todo el contenido gratuito.
+    <div style={{ minHeight: '100vh', backgroundColor: '#000020', color: 'white' }}>
+    <marquee direction="" 
+    style={{
+      color: "white", 
+      backgroundColor: "#000020", 
+      fontSize: "20px", 
+      padding: "10px",
+      width: "100%",
+      height: "55px",
+      border: "none",
+    }}
+    >
+      Bienvenidos a Cine Fanáticos !!!. Disfruta de todo el contenido gratuito 😁.
     </marquee>
     {/* <h1>Movies App</h1> */}
       <MovieGallery movies={movies}/>
-    </>
+    </div>
   )
 }
 

@@ -1,0 +1,500 @@
+[{
+  "_id": {
+    "$oid": "672e49353541bb1c714fb212"
+  },
+  "title": "Arcadian",
+  "descripcion": "En una remota granja, un padre y sus hijos gemelos se enfrentan a una noche de horror inimaginable, acosados por criaturas salvajes y despiadadas. Unidos por la desesperación, deberán luchar contra el terror y sobrevivir a toda costa.",
+  "genero": [
+    "Action",
+    "Horror",
+    "Thriller",
+    "Science Fiction"
+  ],
+  "actores": [
+    "Nicolas Cage",
+    "Jaeden Martell",
+    "Maxwell Jenkins",
+    "Sadie Soverall",
+    "Samantha Coughlan"
+  ],
+  "calificacion": 6.028,
+  "fecha_publicacion": "2024-04-12",
+  "duration": "N/A",
+  "coverImage": "https://image.tmdb.org/t/p/w500/spWV1eRzlDxvai8LbxwAWR0Vst4.jpg",
+  "backdropImage": "https://image.tmdb.org/t/p/w500/9s9o9RT9Yj6nDuRJjnJm78WFoFl.jpg",
+  "trailerUrl": "https://youtu.be/2aiu0ERNk5E?si=Bk8_lMUtqi4aYqDP",
+  "peliculaUrl": "https://player.cuevana.biz/player.php?h=xPGVAASKY7nq8KaEgwASgW.S.E5Wr8HwqVsXXKaLwa4jcxTar5R5z5rnqpRyHEXhyPGDtDN5NkVW.PBXvw5hbATqekWB9TussRl5IQQ77Amd3cUhXZRB7rlOnQDFS85f1oJtRgJhh0YDEWxFR5OmBg--"
+},
+{
+  "_id": {
+    "$oid": "672e49353541bb1c714fb20c"
+  },
+  "title": "Robot salvaje",
+  "descripcion": "Después de un naufragio, un robot inteligente llamado Roz queda varado en una isla deshabitada. Para sobrevivir al duro entorno, Roz se relaciona con los animales de la isla y cuida de un ganso bebé huérfano.",
+  "genero": [
+    "Animation",
+    "Science Fiction",
+    "Family"
+  ],
+  "actores": [
+    "Lupita Nyong'o",
+    "Pedro Pascal",
+    "Kit Connor",
+    "Bill Nighy",
+    "Stephanie Hsu"
+  ],
+  "calificacion": 8.537,
+  "fecha_publicacion": "2024-09-12",
+  "duration": "N/A",
+  "coverImage": "https://image.tmdb.org/t/p/w500/wTnV3PCVW5O92JMrFvvrRcV39RU.jpg",
+  "backdropImage": "https://image.tmdb.org/t/p/w500/v9acaWVVFdZT5yAU7J2QjwfhXyD.jpg",
+  "trailerUrl": "https://youtu.be/nLLx_VCR3QE?si=61wVOyWG_hxdX8h6",
+  "peliculaUrl": "https://player.cuevana.biz/player.php?h=xPGVAASKY7nq8KaEgwASgW.S.E5Wr8HwqVsXXKaLwa4jcxTar5R5z5rnqpRyHEXhOY5BPN.IXjELPCzVyFcd4NQy0mFa4Qk8s9hyuUrCPgovxNY6uoYrjvV.gC.aBiCQyLj822YkE4zPti5cSpOEWA--"
+},
+{
+  "_id": {
+    "$oid": "672e49353541bb1c714fb214"
+  },
+  "title": "Alien: Romulus",
+  "descripcion": "Mientras hurgan en las profundidades de una estación espacial abandonada, un grupo de jóvenes colonizadores espaciales se encuentran cara a cara con la forma de vida más aterradora del universo.",
+  "genero": [
+    "Science Fiction",
+    "Horror"
+  ],
+  "actores": [
+    "Cailee Spaeny",
+    "David Jonsson",
+    "Archie Renaux",
+    "Isabela Merced",
+    "Spike Fearn"
+  ],
+  "calificacion": 7.264,
+  "fecha_publicacion": "2024-08-13",
+  "duration": "N/A",
+  "coverImage": "https://image.tmdb.org/t/p/w500/b33nnKl1GSFbao4l3fZDDqsMx0F.jpg",
+  "backdropImage": "https://image.tmdb.org/t/p/w500/6vn6K9oX82i6E86ZiHVxqVEMQqP.jpg",
+  "trailerUrl": "https://youtu.be/5nWH2Pd-x-c?si=fDj3zxASDpBBbCsM",
+  "peliculaUrl": "https://player.cuevana.biz/player.php?h=xPGVAASKY7nq8KaEgwASgW.S.E5Wr8HwqVsXXKaLwa4jcxTar5R5z5rnqpRyHEXhPX4PRwanNkuOgs_ZPWItGBZjeMro1YD1IZ_nq3UTtKsKc5sVFLxpXExaYxaIB2COLYWu2MyH61Sf2_UM4fxhIQ--"
+},
+{
+  "_id": {
+    "$oid": "672e49353541bb1c714fb216"
+  },
+  "title": "Código: Traje rojo",
+  "descripcion": "Después de que Santa Claus (nombre clave: Red One) es secuestrado, el Jefe de Seguridad del Polo Norte debe formar equipo con el cazarrecompensas más infame del mundo en una misión trotamundos llena de acción para salvar la Navidad.",
+  "genero": [
+    "Comedy",
+    "Action",
+    "Fantasy"
+  ],
+  "actores": [
+    "Dwayne Johnson",
+    "Chris Evans",
+    "J.K. Simmons",
+    "Lucy Liu",
+    "Kiernan Shipka"
+  ],
+  "calificacion": 7.7,
+  "fecha_publicacion": "2024-10-31",
+  "duration": "N/A",
+  "coverImage": "https://image.tmdb.org/t/p/w500/cdqLnri3NEGcmfnqwk2TSIYtddg.jpg",
+  "backdropImage": "https://image.tmdb.org/t/p/w500/rOmUuQEZfPXglwFs5ELLLUDKodL.jpg",
+  "trailerUrl": "https://youtu.be/N14v_-ftWK4?si=7AchzmPXoMh6Gt2W",
+  "peliculaUrl": "https://player.cuevana.biz/player.php?h=xPGVAASKY7nq8KaEgwASgW.S.E5Wr8HwqVsXXKaLwa4jcxTar5R5z5rnqpRyHEXhL58sgtLXxq2ARajNri0qi.dgDJjyLZmhJmvkBOKX8P.M9_1se.DLxRJVCmEXcO9nuI5CY.h4SMTGKTDB8vSgbQ--"
+},
+{
+  "_id": {
+    "$oid": "672e49353541bb1c714fb218"
+  },
+  "title": "Sobreviviendo",
+  "descripcion": "Una pareja celebra el cumpleaños de su hijo en medio del océano en su barco. Se desata una violenta tormenta que hace que aparezcan criaturas hambrientas de las profundidades y luchen por sobrevivir.",
+  "genero": [
+    "Thriller",
+    "Adventure",
+    "Action",
+    "Science Fiction"
+  ],
+  "actores": [
+    "Andreas Pietschmann",
+    "Émilie Dequenne",
+    "Lucas Ebel",
+    "Arben Bajraktaraj",
+    "Lisa Delamar"
+  ],
+  "calificacion": 5,
+  "fecha_publicacion": "2024-06-19",
+  "duration": "N/A",
+  "coverImage": "https://image.tmdb.org/t/p/w500/7fR3KxswtY8OHHZuOUB9td58CRX.jpg",
+  "backdropImage": "https://image.tmdb.org/t/p/w500/csQSGH0QU8D3Ov5YLEYuHep8ihA.jpg",
+  "trailerUrl": "https://youtu.be/b5YmeR20aOY?si=7ieY-NE_HsGAsdTG",
+  "peliculaUrl": "https://player.cuevana.biz/player.php?h=xPGVAASKY7nq8KaEgwASgW.S.E5Wr8HwqVsXXKaLwa4jcxTar5R5z5rnqpRyHEXhWwj2I4qhuV9oDR2.ahYtc8Les4y0X.EJsOJpGGuY8t2vVSZ5qMmYYMuRBRCl2aLryGa9Zv5q_3aWezM3UKx4jg--"
+},
+{
+  "_id": {
+    "$oid": "672e49353541bb1c714fb20b"
+  },
+  "title": "Venom: El último baile",
+  "descripcion": "Eddie y Venom están prófugos. Perseguidos por sus dos mundos y con la red cerrándose sobre ellos, el dúo se ve obligado a tomar una decisión devastadora que pondrá fin al último baile de Venom y Eddie.",
+  "genero": [
+    "Science Fiction",
+    "Action",
+    "Adventure"
+  ],
+  "actores": [
+    "Tom Hardy",
+    "Chiwetel Ejiofor",
+    "Juno Temple",
+    "Clark Backo",
+    "Rhys Ifans"
+  ],
+  "calificacion": 6.642,
+  "fecha_publicacion": "2024-10-22",
+  "duration": "N/A",
+  "coverImage": "https://image.tmdb.org/t/p/w500/aosm8NMQ3UyoBVpSxyimorCQykC.jpg",
+  "backdropImage": "https://image.tmdb.org/t/p/w500/3V4kLQg0kSqPLctI5ziYWabAZYF.jpg",
+  "trailerUrl": "https://youtu.be/oAH1Ku_1EUY?si=9hFxf4mB0lrVUAzi",
+  "peliculaUrl": "https://player.cuevana.biz/player.php?h=xPGVAASKY7nq8KaEgwASgW.S.E5Wr8HwqVsXXKaLwa4jcxTar5R5z5rnqpRyHEXhtd6yXvVgSPrj_Ich73cxiVvAwaVQ2YUeWeD.AcY6MBhRTDKkq3HqBJ1Erhz1AXi0pyluQhlvaeGk7xexRSVLLw--"
+},
+{
+  "_id": {
+    "$oid": "672e49353541bb1c714fb21b"
+  },
+  "title": "Canario negro",
+  "descripcion": "La agente de alto rango de la CIA Avery Graves es chantajeada por terroristas para que traicione a su propio país y salve a su marido secuestrado. Separada de su equipo, recurre a sus contactos del hampa para sobrevivir y ayudar a localizar la codiciada información que quieren los secuestradores.",
+  "genero": [
+    "Action",
+    "Thriller",
+    "Crime"
+  ],
+  "actores": [
+    "Kate Beckinsale",
+    "Rupert Friend",
+    "Saffron Burrows",
+    "Ray Stevenson",
+    "Goran Kostić"
+  ],
+  "calificacion": 6.4,
+  "fecha_publicacion": "2024-10-10",
+  "duration": "N/A",
+  "coverImage": "https://image.tmdb.org/t/p/w500/hhiR6uUbTYYvKoACkdAIQPS5c6f.jpg",
+  "backdropImage": "https://image.tmdb.org/t/p/w500/begseNUKhZcc05Bc1UggaX5GeES.jpg",
+  "trailerUrl": "https://youtu.be/81-i4OYYyVs?si=Y4XvXsJG4JdQesQ_",
+  "peliculaUrl": "https://player.cuevana.biz/player.php?h=xPGVAASKY7nq8KaEgwASgW.S.E5Wr8HwqVsXXKaLwa4jcxTar5R5z5rnqpRyHEXhCk6pbzegHEG7LnynMr.YTK7FspHJFOnJPIs4l0F5tORgQ3f2cz09SwPgcPaYd105r7e4fGr7wtNhiftGTU7gwA--"
+},
+{
+  "_id": {
+    "$oid": "672e49353541bb1c714fb21c"
+  },
+  "title": "Terrifier",
+  "descripcion": "Un payaso maníaco llamado Art aterroriza a tres mujeres jóvenes en la noche de Halloween y a todos los que se interponen en su camino.",
+  "genero": [
+    "Horror",
+    "Thriller"
+  ],
+  "actores": [
+    "David Howard Thornton",
+    "Jenna Kanell",
+    "Samantha Scaffidi",
+    "Catherine Corcoran",
+    "Pooya Mohseni"
+  ],
+  "calificacion": 6.386,
+  "fecha_publicacion": "2018-01-25",
+  "duration": "N/A",
+  "coverImage": "https://image.tmdb.org/t/p/w500/sFaPj5UyIAsiRuIgVl60pCYUzmR.jpg",
+  "backdropImage": "https://image.tmdb.org/t/p/w500/fBNnj5bQ5YhzPUzxIW1UvLVZepP.jpg",
+  "trailerUrl": "https://youtu.be/vTutJ2_E1Vo?si=0_HDp9m-Yw4CNkx2",
+  "peliculaUrl": "https://player.cuevana.biz/player.php?h=xPGVAASKY7nq8KaEgwASgW.S.E5Wr8HwqVsXXKaLwa4jcxTar5R5z5rnqpRyHEXh0p0ThtcFs3mBC8BqbngFhhJ.U2Ar17.L2mQyA6tDADiYfKBKYHUCOZcHtuXg7L58mJwyFllTHBdUBRkWDj5Zvw--"
+},
+{
+  "_id": {
+    "$oid": "672e49353541bb1c714fb224"
+  },
+  "title": "Deadpool & Wolverine",
+  "descripcion": "Un apático Wade Wilson se esfuerza en su vida civil, dejando atrás sus días como el mercenario moralmente flexible, Deadpool. Pero cuando su mundo natal enfrenta una amenaza existencial, Wade debe volver a ponerse el traje de un Wolverine aún más reacio.",
+  "genero": [
+    "Action",
+    "Comedy",
+    "Science Fiction"
+  ],
+  "actores": [
+    "Ryan Reynolds",
+    "Hugh Jackman",
+    "Emma Corrin",
+    "Matthew Macfadyen",
+    "Dafne Keen"
+  ],
+  "calificacion": 7.706,
+  "fecha_publicacion": "2024-07-24",
+  "duration": "N/A",
+  "coverImage": "https://image.tmdb.org/t/p/w500/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg",
+  "backdropImage": "https://image.tmdb.org/t/p/w500/yDHYTfA3R0jFYba16jBB1ef8oIt.jpg",
+  "trailerUrl": "https://youtu.be/UzFZR2dRsSY?si=Qo__liS-rtu12Cdi",
+  "peliculaUrl": "https://player.cuevana.biz/player.php?h=xPGVAASKY7nq8KaEgwASgW.S.E5Wr8HwqVsXXKaLwa4jcxTar5R5z5rnqpRyHEXhwi8_dUULuO4Ws0t6FMc4ZqL9ewAw7GmCGjKEGl8SyexS17nFfG52gcbPMET8oVqKHjAzM2_G6UAt1mCUpsIeCw--"
+},
+{
+  "_id": {
+    "$oid": "672e49353541bb1c714fb20d"
+  },
+  "title": "La sustancia",
+  "descripcion": "Una celebridad en decadencia decide usar una droga del mercado negro, una sustancia que replica células y crea temporalmente una versión más joven y mejor de ella misma.",
+  "genero": [
+    "Drama",
+    "Horror",
+    "Science Fiction"
+  ],
+  "actores": [
+    "Demi Moore",
+    "Margaret Qualley",
+    "Dennis Quaid",
+    "Edward Hamilton-Clark",
+    "Gore Abrams"
+  ],
+  "calificacion": 7.3,
+  "fecha_publicacion": "2024-09-07",
+  "duration": "N/A",
+  "coverImage": "https://image.tmdb.org/t/p/w500/lqoMzCcZYEFK729d6qzt349fB4o.jpg",
+  "backdropImage": "https://image.tmdb.org/t/p/w500/d6gnFwpUbVYSfKwJWBZccxjpFGX.jpg",
+  "trailerUrl": "https://youtu.be/LL7-o30o9ec?si=3rmv1Pf4Nx6MEbXZ",
+  "peliculaUrl": "https://player.cuevana.biz/player.php?h=xPGVAASKY7nq8KaEgwASgW.S.E5Wr8HwqVsXXKaLwa4jcxTar5R5z5rnqpRyHEXhfKRW_6rVB72amlrZOYf05gY.4jL6Aae1Uaj592vS_E00OgdVfUA9iE7gKnZ4MpUxiT3i6vKze2fOABCzcsbdEA--"
+},
+{
+  "_id": {
+    "$oid": "672e49353541bb1c714fb225"
+  },
+  "title": "El conde de Montecristo",
+  "descripcion": "Edmond Dantes se convierte en el objetivo de un siniestro complot y es arrestado el día de su boda por un crimen que no cometió. Después de 14 años en la prisión de la isla de Château d'If, logra escapar audazmente. Ahora, rico más allá de sus sueños, asume la identidad del conde de Monte-Cristo y se venga de los tres hombres que lo traicionaron.",
+  "genero": [
+    "Adventure",
+    "History",
+    "Action",
+    "Drama",
+    "Romance",
+    "Thriller"
+  ],
+  "actores": [
+    "Pierre Niney",
+    "Bastien Bouillon",
+    "Anaïs Demoustier",
+    "Anamaria Vartolomei",
+    "Laurent Lafitte"
+  ],
+  "calificacion": 8.3,
+  "fecha_publicacion": "2024-06-28",
+  "duration": "N/A",
+  "coverImage": "https://image.tmdb.org/t/p/w500/zw4kV7npGtaqvUxvJE9IdqdFsNc.jpg",
+  "backdropImage": "https://image.tmdb.org/t/p/w500/llIXQAndg5kB6SWlp6ouUdO7Zxd.jpg",
+  "peliculaUrl": "https://player.cuevana.biz/player.php?h=xPGVAASKY7nq8KaEgwASgW.S.E5Wr8HwqVsXXKaLwa4jcxTar5R5z5rnqpRyHEXhZ_TbmYNxfFMOs13mZA_SLdWiyu9.VspuTO2Vx.u90HTZ2Ac3cszsQl_l6HD26S1bfxWjEiHeFWimzQE87JY_5w--",
+  "trailerUrl": "https://youtu.be/Q18nE1A31Ak?si=zoJjJtXh8ea7fnDG"
+},
+{
+  "_id": {
+    "$oid": "672e49353541bb1c714fb20e"
+  },
+  "title": "Transformers One",
+  "descripcion": "La historia del origen no contada de Optimus Prime y Megatron, mejor conocidos como enemigos jurados, pero que una vez fueron amigos unidos como hermanos que cambiaron el destino de Cybertron para siempre.",
+  "genero": [
+    "Animation",
+    "Science Fiction",
+    "Adventure",
+    "Family"
+  ],
+  "actores": [
+    "Chris Hemsworth",
+    "Brian Tyree Henry",
+    "Scarlett Johansson",
+    "Keegan-Michael Key",
+    "Jon Hamm"
+  ],
+  "calificacion": 8.2,
+  "fecha_publicacion": "2024-09-11",
+  "duration": "N/A",
+  "coverImage": "https://image.tmdb.org/t/p/w500/iHPIBzrjJHbXeY9y7VVbEVNt7LW.jpg",
+  "backdropImage": "https://image.tmdb.org/t/p/w500/zViRwl3ySscZnbXZJ2Q9wq3SeUG.jpg",
+  "peliculaUrl": "https://player.cuevana.biz/player.php?h=xPGVAASKY7nq8KaEgwASgW.S.E5Wr8HwqVsXXKaLwa4jcxTar5R5z5rnqpRyHEXhLCIFvVce2zY8yNcdIYMs6yNT0M.XqQ9PC.2IXR8ctRufoGB_bMF5KSvmyoH1wF.oOnBD_OSJVOoDuUOKAhDGCQ--",
+  "trailerUrl": "https://youtu.be/sj8ANC-d-Y0?si=hWw-pe0ErIRDsM16"
+},
+{
+  "_id": {
+    "$oid": "672e49353541bb1c714fb213"
+  },
+  "title": "Venom",
+  "descripcion": "El periodista de investigación Eddie Brock intenta volver a la acción tras un escándalo, pero accidentalmente se convierte en el anfitrión de Venom, un simbionte alienígena violento y superpoderoso. Pronto, deberá confiar en sus nuevos poderes para proteger al mundo de una organización oscura que busca un simbionte propio.",
+  "genero": [
+    "Science Fiction",
+    "Action"
+  ],
+  "actores": [
+    "Tom Hardy",
+    "Michelle Williams",
+    "Riz Ahmed",
+    "Scott Haze",
+    "Reid Scott"
+  ],
+  "calificacion": 6.835,
+  "fecha_publicacion": "2018-09-28",
+  "duration": "N/A",
+  "coverImage": "https://image.tmdb.org/t/p/w500/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg",
+  "backdropImage": "https://image.tmdb.org/t/p/w500/VuukZLgaCrho2Ar8Scl9HtV3yD.jpg",
+  "peliculaUrl": "https://player.cuevana.biz/player.php?h=xPGVAASKY7nq8KaEgwASgW.S.E5Wr8HwqVsXXKaLwa4jcxTar5R5z5rnqpRyHEXhP6OlXbddCS6l2cnUwNqtjrWpycTpnftgazwsUMKLa2QzzjWCf8l.ryhA09o2dsYLnDyTACwgg_4jZipXQ4ztUg--",
+  "trailerUrl": "https://youtu.be/9-WWYKdGl5E?si=AXUiNWg7pD-xw-kO"
+},
+{
+  "_id": {
+    "$oid": "672e49353541bb1c714fb223"
+  },
+  "title": "Joker: Folie à Deux",
+  "descripcion": "Mientras lucha con su doble identidad, Arthur Fleck no solo se topa con el amor verdadero, sino que también encuentra la música que siempre ha estado dentro de él.",
+  "genero": [
+    "Drama",
+    "Crime",
+    "Thriller"
+  ],
+  "actores": [
+    "Joaquin Phoenix",
+    "Lady Gaga",
+    "Brendan Gleeson",
+    "Catherine Keener",
+    "Zazie Beetz"
+  ],
+  "calificacion": 5.681,
+  "fecha_publicacion": "2024-10-01",
+  "duration": "N/A",
+  "coverImage": "https://image.tmdb.org/t/p/w500/if8QiqCI7WAGImKcJCfzp6VTyKA.jpg",
+  "backdropImage": "https://image.tmdb.org/t/p/w500/uGmYqxh8flqkudioyFtD7IJSHxK.jpg",
+  "peliculaUrl": "https://player.cuevana.biz/player.php?h=xPGVAASKY7nq8KaEgwASgW.S.E5Wr8HwqVsXXKaLwa4jcxTar5R5z5rnqpRyHEXh4xRvK3xGAALB8y4PuC1Old0tgzg4kKdD_iBqC4oMe5TU6Nqu_GASPehWv35H7CVSCWuOcxV2lft02tONBnFRpg--",
+  "trailerUrl": "https://youtu.be/hqx1NcHoiq0?si=9WHouIg2kBVkLo6B"
+},
+{
+  "_id": {
+    "$oid": "672e49353541bb1c714fb231"
+  },
+  "title": "Mi villano favorito 4",
+  "descripcion": "Gru, Lucy y sus hijas (Margo, Edith y Agnes) dan la bienvenida a un nuevo miembro a la familia Gru, Gru Jr., que está decidido a atormentar a su padre. Gru también se enfrenta a un nuevo enemigo, Maxime Le Mal y su novia fatal Valentina, lo que obliga a la familia a huir.",
+  "genero": [
+    "Animation",
+    "Family",
+    "Comedy",
+    "Action"
+  ],
+  "actores": [
+    "Steve Carell",
+    "Kristen Wiig",
+    "Will Ferrell",
+    "Sofía Vergara",
+    "Miranda Cosgrove"
+  ],
+  "calificacion": 7.108,
+  "fecha_publicacion": "2024-06-20",
+  "duration": "N/A",
+  "coverImage": "https://image.tmdb.org/t/p/w500/wWba3TaojhK7NdycRhoQpsG0FaH.jpg",
+  "backdropImage": "https://image.tmdb.org/t/p/w500/lgkPzcOSnTvjeMnuFzozRO5HHw1.jpg",
+  "peliculaUrl": "https://player.cuevana.biz/player.php?h=xPGVAASKY7nq8KaEgwASgW.S.E5Wr8HwqVsXXKaLwa4jcxTar5R5z5rnqpRyHEXhNWGsCrahlYuocmpw4jyP7h7m9LFD04WPlfhpU7BF3Cba2A9bId3SuFW8LO64UWiTTiNHn.Z4CmRDimbXYNQ1jg--",
+  "trailerUrl": "https://youtu.be/I0_qFoptZ4Y?si=uh0Fm-n9bmw6gR72"
+},
+{
+  "_id": {
+    "$oid": "672e49353541bb1c714fb20a"
+  },
+  "title": "Terrifier 3",
+  "descripcion": "Cinco años después de sobrevivir a la masacre de Halloween de Art el Payaso, Sienna y Jonathan siguen luchando por reconstruir sus vidas destrozadas. A medida que se acerca la temporada navideña, intentan abrazar el espíritu navideño y dejar atrás los horrores del pasado. Pero justo cuando creen que están a salvo, Art regresa, decidido a convertir su alegría navideña en una nueva pesadilla. La temporada festiva se desmorona rápidamente cuando Art desata su retorcida marca de terror, demostrando que ninguna festividad es segura.",
+  "genero": [
+    "Horror",
+    "Thriller",
+    "Mystery"
+  ],
+  "actores": [
+    "Samantha Scaffidi",
+    "David Howard Thornton",
+    "Margaret Anne Florence",
+    "Bryce Johnson",
+    "Alexa Blair Robertson"
+  ],
+  "calificacion": 7.2,
+  "fecha_publicacion": "2024-10-09",
+  "duration": "N/A",
+  "coverImage": "https://image.tmdb.org/t/p/w500/63xYQj1BwRFielxsBDXvHIJyXVm.jpg",
+  "backdropImage": "https://image.tmdb.org/t/p/w500/gMQibswELoKmB60imE7WFMlCuqY.jpg",
+  "trailerUrl": "https://youtu.be/mkK0iLvaRzQ?si=wC4KbL86A7NmKJWx",
+  "peliculaUrl": "https://player.cuevana.biz/player.php?h=xPGVAASKY7nq8KaEgwASgW.S.E5Wr8HwqVsXXKaLwa4jcxTar5R5z5rnqpRyHEXhIkijX25Cxc8WyH0e7UTOhGcICbMOungJssANaCOTWa.LUcQPIK2lDPLXHrXtQnAxBfbxSgh58jDT35Fe63w0hw--"
+},
+{
+  "_id": {
+    "$oid": "672e49353541bb1c714fb215"
+  },
+  "title": "Venom: Carnage Liberado",
+  "descripcion": "Eddie Brock y su simbionte Venom todavía están intentando descubrir cómo vivir juntos cuando un preso que está en el corredor de la muerte se infecta con un simbionte propio.",
+  "genero": [
+    "Science Fiction",
+    "Action",
+    "Adventure"
+  ],
+  "actores": [
+    "Tom Hardy",
+    "Woody Harrelson",
+    "Michelle Williams",
+    "Naomie Harris",
+    "Reid Scott"
+  ],
+  "calificacion": 6.8,
+  "fecha_publicacion": "2021-09-30",
+  "duration": "N/A",
+  "coverImage": "https://image.tmdb.org/t/p/w500/1MJNcPZy46hIy2CmSqOeru0yr5C.jpg",
+  "backdropImage": "https://image.tmdb.org/t/p/w500/vIgyYkXkg6NC2whRbYjBD7eb3Er.jpg",
+  "peliculaUrl": "https://player.cuevana.biz/player.php?h=xPGVAASKY7nq8KaEgwASgW.S.E5Wr8HwqVsXXKaLwa4jcxTar5R5z5rnqpRyHEXhIDR8rB9GLzKyWwAyG_iwJgFdhGI.sxfw16kxCt9goezdtxNyuhDkCnk2IrNm3.qfJGw4mCFFSpXX2e4PV1us1w--",
+  "trailerUrl": "https://youtu.be/wfjlNisONJY?si=xfUtFCxXtzJ7NDVA"
+},
+{
+  "_id": {
+    "$oid": "672e49353541bb1c714fb21a"
+  },
+  "title": "IntensaMente 2",
+  "descripcion": "La sede mental del adolescente Riley está sufriendo una repentina demolición para dejar espacio a algo completamente inesperado: ¡nuevas emociones! La alegría, la tristeza, la ira, el miedo y el asco, que llevan mucho tiempo dirigiendo una operación exitosa en todos los sentidos, no están seguros de cómo sentirse cuando aparece la ansiedad. Y parece que no está sola.",
+  "genero": [
+    "Animation",
+    "Family",
+    "Adventure",
+    "Comedy",
+    "Drama"
+  ],
+  "actores": [
+    "Amy Poehler",
+    "Maya Hawke",
+    "Kensington Tallman",
+    "Liza Lapira",
+    "Tony Hale"
+  ],
+  "calificacion": 7.6,
+  "fecha_publicacion": "2024-06-11",
+  "duration": "N/A",
+  "coverImage": "https://image.tmdb.org/t/p/w500/vpnVM9B6NMmQpWeZvzLvDESb2QY.jpg",
+  "backdropImage": "https://image.tmdb.org/t/p/w500/p5ozvmdgsmbWe0H8Xk7Rc8SCwAB.jpg",
+  "trailerUrl": "https://youtu.be/xiC2iXTXHxw?si=49j-6mbfKpYrLklj",
+  "peliculaUrl": "https://player.cuevana.biz/player.php?h=xPGVAASKY7nq8KaEgwASgW.S.E5Wr8HwqVsXXKaLwa4jcxTar5R5z5rnqpRyHEXhcDXH8y4O8hiyscOhBOANyapOIGG7fihiqW3yQ0bwRWeHpgNErJYSwILNSekuYbVDRu5VYnXCxa9ALYNZAiT6DA--"
+},
+{
+  "_id": {
+    "$oid": "672e49353541bb1c714fb217"
+  },
+  "title": "Apocalipsis Z: El principio del fin",
+  "descripcion": "Cuando una especie de rabia que transforma a las personas en criaturas agresivas se extiende por el planeta, Manel se aísla en casa con su gato, confiando en su ingenio para sobrevivir; pero pronto deberán salir en busca de alimento, por tierra y por mar,esquivando muchos peligros.",
+  "genero": [
+    "Drama",
+    "Action",
+    "Horror"
+  ],
+  "actores": [
+    "Francisco Ortiz",
+    "José María Yázpik",
+    "Berta Vázquez",
+    "Iria del Río",
+    "Marta Poveda"
+  ],
+  "calificacion": 6.7,
+  "fecha_publicacion": "2024-10-04",
+  "duration": "N/A",
+  "coverImage": "https://image.tmdb.org/t/p/w500/wIGJnIFQlESkC2rLpfA8EDHqk4g.jpg",
+  "backdropImage": "https://image.tmdb.org/t/p/w500/2fxnTXr8NwyTFkunkimJkGkhqfy.jpg",
+  "trailerUrl": "https://youtu.be/ZS0adbcIKQw?si=WEJfBU735-GrnUS7",
+  "peliculaUrl": "https://player.cuevana.biz/player.php?h=xPGVAASKY7nq8KaEgwASgW.S.E5Wr8HwqVsXXKaLwa4jcxTar5R5z5rnqpRyHEXh_.Cb6MLFbvkhKM9m4AC4PoEnCMr8s33qGLoPSA5G1eufgpIw3rdPAhl6ZREMgmv4l400HmjAOzItCrDswKdhGQ--"
+}]

@@ -4,9 +4,9 @@ import Form from "./Form";
 import { useState } from "react";
 import Button from "./button"; // Fix the case of the file name
 
-// eslint-disable-next-line react/prop-types
+/// eslint-disable-next-line react/prop-types
 export default function Selected({selectedMovie }) {
-   const [showForm , setShowForm] = useState(false)    
+  const [showForm , setShowForm] = useState(false)    
   return (
         <div className="relative w-full h-[80vh] overflow-hidden">
           <div className="absolute inset-0">
@@ -45,7 +45,7 @@ export default function Selected({selectedMovie }) {
                     </span>
                   ))}
                 </div>
-                <p className="text-gray-300 max-w-2xl">{selectedMovie.descripcion}</p>
+                <p className="text-gray-300 max-w-2xl ">{selectedMovie.descripcion}</p>
                 <div className="flex gap-4 pt-4">
                   <Button className="bg-red-600 hover:bg-red-700">
                     <Play className="w-4 h-4 mr-2" />
@@ -59,8 +59,8 @@ export default function Selected({selectedMovie }) {
               </div>
             </div>
             {showForm && <Form/>}
-             <div className="gap-2  block sm:flex">
-             <Button className="backdrop-blur-sm bg-red-600 my-1">
+            <div className="gap-2  block sm:flex">
+            <Button className="backdrop-blur-sm bg-red-600 my-1">
                 <TicketX />
               </Button>
               <Button 
@@ -68,7 +68,7 @@ export default function Selected({selectedMovie }) {
               className="backdrop-blur-sm bg-blue-600 my-1">
                 <TicketPlus />
               </Button>
-             </div>
+            </div>
           </div>
         </div>
   )
