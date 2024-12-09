@@ -47,7 +47,7 @@ export default function Form({ className}) {
       }
 
   return (
-    <form onSubmit={handleSubmit} className={`bg-gray-800 p-6 rounded-lg shadow-lg fixed z-20  ${className}`}>
+    <form onSubmit={handleSubmit} className={`bg-gray-800 p-6 rounded-lg shadow-lg fixed z-20 g ${className}`}>
     <h2 className="text-2xl font-bold mb-4">Add New Movie</h2>
     <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
       <input
@@ -123,7 +123,7 @@ export default function Form({ className}) {
       onChange={handleChange}
       placeholder="Description"
       className="bg-gray-700 text-white p-2 rounded w-full mt-4"
-      rows="4"
+      rows={4}
       required
     ></textarea>
     <button type="submit" className="bg-blue-600 hover:bg-blue-700 mt-4">

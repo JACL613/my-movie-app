@@ -1,10 +1,10 @@
 
 import { useEffect, useState } from 'react'
 import './App.css'
-import MovieGallery from './components/Galery'
+import {MovieGallery} from './components/Galery'
 // import movies from './utils/DB.json'
 
-
+declare global { namespace JSX { interface IntrinsicElements { marquee: React.DetailedHTMLProps<React.HTMLAttributes<HTMLElement>, HTMLElement>; } } }
 function App() {
   const [movies, setMovies] = useState(null)
 
@@ -27,7 +27,7 @@ function App() {
   if (!movies) return <h1 style={{ color: 'black', textAlign: 'center' }}>Cargando...</h1>;
   return (
     <div style={{ minHeight: '100vh', backgroundColor: '#000020', color: 'white' }}>
-    <marquee direction="" 
+    <marquee 
     style={{
       color: "white", 
       backgroundColor: "#000020", 
